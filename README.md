@@ -1,2 +1,2 @@
-#Direct Tracking Stereo Features Using Direct Method(DTSF)
+#Direct Tracking Stereo Features(DTSF) and Depth Optimization
 
